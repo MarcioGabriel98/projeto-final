@@ -1,0 +1,58 @@
+
+.new-color-menu{
+    background: #28ab1f !important;
+}
+
+.new-color-menu > p {
+    color: black;
+}
+
+.page-home{
+    background: #050c75;
+    color: #ffffff;
+}
+
+.page-title-home{
+    background: #dfdfdf;
+    border-radius: 10px;
+    color: cornsilk;
+}
+
+
+.page-title-noticias{
+    background: #B075F2;
+    border-radius: 10px;
+    color: cornsilk;
+}
+
+.page-title-cursos{
+    background: rgb(66, 7, 7)
+    ;
+    border-radius: 10px;
+    color: cornsilk;
+}
+
+.page-title-curso{
+    background: rgb(228, 60, 8)
+    ;
+    border-radius: 10px;
+    color: cornsilk;
+}
+
+.page-title-disciplinas{
+    background: rgb(53, 75, 55);
+    border-radius: 10px;
+    color: cornsilk;
+}
+
+
+footer{
+position: relative;
+bottom: 0;
+width: 100%;
+height: 2.5rem; 
+height:-100px;
+}
+.bg-noticias{
+    background:#D4D6F9; border-radius: 10px;
+}
